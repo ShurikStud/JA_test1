@@ -1,3 +1,5 @@
+package com.company;
+
 public class MyClass {
     public int param1;
 
